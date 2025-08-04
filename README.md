@@ -7,5 +7,5 @@ The project aims at curating the data and information published about hydrogeneo
 and marine manganese nodules where recovered during the Challenger Expedition of 1872–76 and further analysed by John Murray and his associates. It stems from the past 
 compiling efforts of the NOAA-NGDC Marine Minerals Data Base. It is building from the recent development of Internet accessed bibliographic and 
 data stores as well as the global data management capabilities offered by the new tools of the Semantic Web initially incepted by Tim Berners-Lee in 2001 <br>
-<a href="https://teravue.github.io/NeoNodule/maps/neonodule_map.html"> see the on-line worl map display </a> <br>
-<a href="https://teravue.github.io/NeoNodule/maps/neonodule_map_polar.html" > see the northern polar map display </a><br>
+> <a href="https://teravue.github.io/NeoNodule/maps/neonodule_map.html"> see the on-line worl map display </a> <br>
+> <a href="https://teravue.github.io/NeoNodule/maps/neonodule_map_polar.html" > see the northern polar map display </a><br>
